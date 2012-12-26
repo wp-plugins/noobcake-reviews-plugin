@@ -1,10 +1,10 @@
 === NoobcakeReviewsPlugin ===
-Contributors: jimburnettva
-Donate link: http://www.jimmyburnett.com
+Contributors: jimburnettva,theunihacker
+Donate link: http://www.universalhacker.com
 Tags: reviews,review,stars
 Requires at least: 3.0
-Tested up to: 3.4.2
-Stable tag: 1.1
+Tested up to: 3.5.0
+Stable tag: 1.2
 
 Noobcake Reviews Plugin is a plugin which shows stars depending on the score you give a post. This is a really easy and simple plugin to make blog posts into reviews.
 
@@ -14,7 +14,7 @@ Show review ratings as stars.
 
 
 
-Developed by: <a href="http://www.jimmyburnett.com" title="jimmy burnett">Jimmy Burnett</a>.
+Developed by: The <a href="http://www.universalhacker.com" title="universal hacker">Universal Hacker</a>.
 
 
 == Installation ==
@@ -48,6 +48,9 @@ None.
 
 = 1.1 =
 Tested with WP 3.4.2
+
+= 1.2 =
+Tested with WP 3.5
 
 == A brief Markdown Example ==
 
