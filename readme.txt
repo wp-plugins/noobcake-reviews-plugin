@@ -1,10 +1,10 @@
 === NoobcakeReviewsPlugin ===
-Contributors: jimburnettva,yourtechieguyblog
-Donate link: http://www.yourtechiguy.com
+Contributors: jimburnettva,yourtechiguy
+Donate link: http://www.jimburnettva.com
 Tags: reviews,review,stars
 Requires at least: 3.0
 Tested up to: 3.5.1
-Stable tag: 1.3
+Stable tag: 1.4
 
 Noobcake Reviews Plugin is a plugin which shows stars depending on the score you give a post. This is a really easy and simple plugin to make blog posts into reviews.
 
@@ -14,7 +14,7 @@ Show review ratings as stars.
 
 
 
-Developed by: The <a href="http://www.yourtechieguy.com" title="your techie guy">Your Techie Guy</a>.
+Developed by: The <a href="http://www.jimburnettva.com" title="Jim Burnett">Jim Burnett</a>.
 
 
 == Installation ==
